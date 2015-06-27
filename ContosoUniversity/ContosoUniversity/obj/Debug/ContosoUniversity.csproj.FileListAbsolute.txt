@@ -32,3 +32,5 @@ C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUnive
 C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
