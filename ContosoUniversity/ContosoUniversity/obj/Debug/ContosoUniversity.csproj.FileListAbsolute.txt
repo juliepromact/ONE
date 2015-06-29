@@ -37,3 +37,4 @@ C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUnive
 C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Validation.resources
 C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
 C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Last.resources
+C:\Users\admin\Documents\Visual Studio 2013\Julie\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.CU_Test1.resources

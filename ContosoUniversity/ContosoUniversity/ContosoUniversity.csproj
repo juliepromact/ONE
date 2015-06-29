@@ -153,6 +153,10 @@
     <Compile Include="Migrations\201506271138528_Last.Designer.cs">
       <DependentUpon>201506271138528_Last.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201506290602352_CU_Test1.cs" />
+    <Compile Include="Migrations\201506290602352_CU_Test1.Designer.cs">
+      <DependentUpon>201506290602352_CU_Test1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Department.cs" />
@@ -213,6 +217,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201506271138528_Last.resx">
       <DependentUpon>201506271138528_Last.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201506290602352_CU_Test1.resx">
+      <DependentUpon>201506290602352_CU_Test1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
